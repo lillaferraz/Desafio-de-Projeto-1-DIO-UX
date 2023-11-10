@@ -1,10 +1,13 @@
-<h1 align="center"> Desafio de Projeto </h1>
+<h1 align="left"> Desafio de Projeto </h1>
 
-<p align="center">
+<p align="left">
 SIRICITY é um aplicativo projetado para dinamizar a economia de uma pequena cidade em Pernambuco. Este repositório contém o wireframe de média fidelidade para a tela inicial do app, mostrando como os usuários interagem com as principais funcionalidades. <br/>
 
+<div align="center">
+<img width="1080" alt="WIREFRAME SIRICITY APP GITHUB" src="https://github.com/lillaferraz/Desafio-de-Projeto-1-DIO-UX/assets/76754964/ea25c7f3-077d-4470-bf5e-fc7e20ccb59a">
 
-
+<div align="left">
+  
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
